@@ -1,0 +1,1735 @@
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-03-07T05:46:55.972Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:46:56.578Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-03-07T05:49:00.801Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:49:01.440Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-03-07T05:49:15.589Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:49:16.080Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-03-07T05:49:25.968Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:49:26.463Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-03-07T05:49:41.071Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:49:41.632Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-03-07T05:49:49.134Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-03-07T05:49:54.716Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:49:55.283Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-03-07T05:50:11.435Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:50:11.953Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-03-07T05:51:25.205Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:51:25.737Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2025-03-07T05:51:47.701Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:51:48.195Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T05:52:12.029Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:52:12.480Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T05:55:01.142Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:55:01.716Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T05:55:07.936Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:55:08.406Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T05:56:06.043Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:56:06.724Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T05:56:08.557Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:56:09.054Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T05:56:15.752Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:56:16.284Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T05:56:18.200Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T05:56:18.772Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T06:02:09.103Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T06:02:09.696Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T06:05:52.798Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T06:05:53.383Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T06:09:54.377Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T06:09:54.942Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:13:09.797Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:13:10.345Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:13:15.342Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:13:15.779Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:13:19.401Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:13:19.835Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:13:22.437Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:13:22.903Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:13:28.045Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:13:28.506Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:13:35.409Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:13:35.855Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:13:40.570Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:13:41.048Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:13:42.492Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:13:42.992Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:14:03.227Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:14:03.675Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:14:27.833Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:14:28.325Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:14:46.189Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:14:46.644Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:15:17.898Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:15:18.465Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:15:33.451Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:15:34.209Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:18:53.624Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:18:54.182Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:19:42.308Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:19:42.762Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:23:19.066Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:23:19.584Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:30:58.230Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:30:59.060Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:37:58.235Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:37:58.995Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T09:38:45.799Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T09:38:46.570Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T10:20:36.911Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T10:20:37.721Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T10:22:23.693Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T10:22:24.489Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T10:23:36.105Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T10:23:36.936Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T10:28:18.964Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T10:28:19.761Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T10:28:27.508Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T10:28:28.219Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T10:32:19.698Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T10:32:20.599Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T10:32:41.107Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T10:32:41.845Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T10:34:28.477Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T10:34:29.284Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T10:37:37.831Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T10:37:38.662Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T10:44:08.366Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T10:44:09.250Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T10:44:20.164Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T10:44:20.850Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-07T13:19:01.138Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-07T13:19:01.629Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T06:47:38.920Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T06:47:39.545Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T07:32:21.482Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T07:32:22.057Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T07:32:25.505Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T07:32:26.930Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T07:32:28.154Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T07:32:30.428Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T07:32:30.975Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T07:32:53.125Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T07:32:53.705Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T07:32:56.034Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T07:32:56.554Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T07:37:12.194Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T07:37:12.843Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T07:37:15.409Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T07:37:15.938Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T07:37:25.284Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T07:37:25.805Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T07:37:36.007Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T07:37:36.497Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T08:05:37.818Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T08:05:38.468Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T08:06:10.157Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T08:06:10.693Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T08:06:12.526Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T08:06:13.020Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T08:09:07.038Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T08:09:08.725Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T08:09:09.697Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T08:09:10.252Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T08:09:14.996Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T08:09:16.212Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T08:09:16.749Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T08:09:18.369Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T08:09:18.891Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T08:09:23.899Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T08:09:24.398Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T08:09:29.447Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T08:09:29.944Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T08:09:44.622Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T08:09:45.151Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T08:15:30.297Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T08:15:30.884Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T09:19:28.773Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T09:19:29.764Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T09:20:00.165Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T09:20:00.987Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T09:51:53.224Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T09:51:57.905Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T09:51:58.955Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T09:51:58.989Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T09:52:15.622Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T09:52:16.372Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T09:52:37.970Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T09:55:23.496Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T09:55:24.443Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T09:56:28.948Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T09:56:30.116Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T09:57:36.324Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T09:57:41.888Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T09:57:42.717Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T09:57:45.317Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T09:58:54.978Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T09:58:56.602Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T09:59:02.145Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T09:59:03.265Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T09:59:17.844Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T09:59:18.081Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T09:59:18.773Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T09:59:22.923Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T09:59:23.705Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T10:00:24.402Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T10:00:25.223Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T10:02:50.025Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T10:02:50.983Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T10:02:51.334Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T10:04:15.501Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T10:04:17.240Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T10:04:28.093Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T10:04:29.843Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T10:14:32.895Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T10:14:33.229Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T10:23:53.033Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T10:23:53.309Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T10:24:55.773Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T10:24:56.187Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T10:30:31.701Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T10:30:31.942Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T10:34:02.562Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T10:34:03.044Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T10:45:33.373Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T10:46:42.143Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T10:53:16.520Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T10:56:39.745Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T10:56:44.540Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T10:56:44.916Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T11:02:38.170Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:02:38.442Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T11:03:15.741Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:03:15.946Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T11:33:54.487Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:33:54.768Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T11:38:14.431Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:39:17.351Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T11:39:18.420Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:39:22.500Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:51:07.316Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T11:51:08.263Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:51:26.142Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:51:44.750Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T11:51:45.501Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:51:46.921Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:52:34.707Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:52:34.963Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:52:40.036Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:52:56.206Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:52:56.948Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T11:52:57.004Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:53:04.075Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:53:04.357Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T11:53:04.884Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:53:30.798Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:53:31.056Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T11:53:31.581Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:54:17.358Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T11:54:18.083Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:54:20.948Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:54:33.394Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T11:54:34.206Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:54:38.928Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:54:46.704Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:54:47.021Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:55:06.500Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T11:55:07.303Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:55:27.881Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:55:28.132Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T11:55:28.623Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:55:35.983Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:55:36.235Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T11:55:36.763Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:56:47.497Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:56:47.748Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T11:56:48.342Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:57:09.976Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:57:10.348Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T11:57:10.914Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T11:57:15.493Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T11:57:16.296Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T11:57:17.927Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T12:02:47.258Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T12:02:48.028Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T12:02:48.931Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T12:04:36.298Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T12:04:37.296Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T12:04:45.175Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T12:04:45.944Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T12:04:49.930Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T12:20:11.273Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T12:20:12.154Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T12:20:15.917Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T12:24:51.006Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T12:24:53.548Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T12:32:44.795Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T12:37:36.762Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T12:41:57.714Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T12:41:58.640Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T13:13:15.831Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-08T13:13:19.116Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-08T13:15:29.347Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-08T13:15:34.954Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-08T13:15:35.574Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T04:43:11.421Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T04:43:12.047Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T04:45:12.160Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T04:45:39.719Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T04:45:40.437Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T04:50:26.766Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T04:50:27.113Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T05:03:29.228Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:03:29.765Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T05:03:29.794Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T05:03:31.512Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:03:31.759Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T05:03:31.996Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:04:08.787Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:04:09.292Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:04:12.767Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:04:13.091Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:04:37.764Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:04:38.078Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:06:00.773Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:06:01.296Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:06:48.775Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:06:49.286Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:08:13.771Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:08:20.319Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:08:21.762Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:08:22.310Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:08:22.764Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:08:23.292Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:08:43.767Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:08:44.279Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:08:47.767Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:08:48.035Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:08:51.756Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:09:00.088Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:11:32.774Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:11:33.237Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:11:36.766Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:12:03.112Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:12:09.767Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:12:10.011Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:12:18.767Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:12:25.071Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:12:27.758Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:12:28.015Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:12:31.766Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:12:32.029Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:12:34.760Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:12:35.055Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:12:42.783Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:12:52.039Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:13:00.767Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:13:00.999Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:13:04.763Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:13:05.024Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:13:14.762Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:13:15.036Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:13:17.764Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:13:18.020Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:13:20.758Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:13:21.029Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:13:21.785Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:13:22.047Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:13:23.797Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:13:24.122Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:13:27.754Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:13:28.013Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:13:30.764Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:13:31.020Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:13:37.758Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:13:38.016Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:13:43.763Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:13:44.006Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:13:59.762Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:14:07.079Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:14:16.765Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:14:17.015Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:14:29.761Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:14:30.054Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:14:33.758Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:14:34.013Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:14:43.759Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:14:44.949Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:15:38.770Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:15:39.267Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:17:55.772Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:17:56.101Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:17:59.756Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:17:59.989Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:18:02.759Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:18:02.989Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:18:36.756Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:18:37.020Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T05:19:06.617Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:19:06.787Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T05:19:07.238Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:21:10.581Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:21:10.890Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T05:26:51.219Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T05:26:51.766Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:26:51.776Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:31:26.769Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:31:27.197Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:32:15.876Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:32:16.233Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T05:35:08.996Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T05:35:09.595Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:35:09.764Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:35:25.649Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:35:26.011Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:35:28.939Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:35:29.172Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T05:50:52.868Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T05:50:53.145Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T06:11:51.542Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:11:52.754Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T06:12:54.810Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:12:55.862Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T06:13:55.891Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:17:07.413Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T06:17:07.552Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:17:07.998Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T06:21:02.318Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:21:02.600Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T06:25:54.797Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:31:45.845Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T06:31:51.953Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:31:57.194Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T06:34:02.428Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:34:02.730Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T06:34:34.653Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:34:34.763Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T06:34:35.428Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T06:34:41.822Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:34:42.022Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T06:34:42.539Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T06:34:45.241Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:34:45.757Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T06:34:47.332Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:34:47.770Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T06:34:48.804Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T06:35:00.643Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:35:00.759Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T06:35:03.550Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:35:03.767Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T06:35:04.719Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T06:35:11.896Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:35:12.049Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T06:35:12.565Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T06:35:22.158Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:35:22.450Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T06:40:40.382Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:40:40.759Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T06:40:41.906Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T06:41:34.482Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:41:34.552Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T06:41:35.686Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T06:42:50.076Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:42:50.385Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T06:46:20.899Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:46:21.275Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T06:46:44.775Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:46:45.003Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T06:58:53.041Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T06:58:53.320Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:00:52.318Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:00:52.843Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:27:10.755Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:27:11.221Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:32:49.660Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:32:49.931Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:46:17.779Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:46:18.597Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:50:18.651Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:50:20.828Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:51:43.234Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:51:43.714Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:54:28.975Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:54:29.458Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:55:11.987Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:55:12.400Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:56:41.251Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:56:42.674Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:56:45.912Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:56:46.773Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:57:21.397Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:57:21.745Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:57:23.435Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:57:23.796Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:57:24.688Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:57:25.074Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:57:27.594Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:57:27.999Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:57:44.645Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:57:44.981Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:57:56.955Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:57:57.305Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:59:28.524Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:59:28.913Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T07:59:31.267Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T07:59:31.376Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T08:00:08.418Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T08:00:08.604Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T08:00:10.835Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T08:00:11.205Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T08:00:22.174Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T08:00:22.540Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T08:00:31.004Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T08:00:31.299Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T08:03:22.271Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T08:03:25.634Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T08:03:26.109Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T08:04:24.831Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T08:04:25.181Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T08:04:46.039Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T08:04:46.347Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T08:04:52.894Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T08:04:53.196Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T08:05:22.154Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T08:08:34.389Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T08:08:35.013Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T08:15:28.322Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T08:59:56.278Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:00:01.151Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:00:02.456Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:02:07.115Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:02:07.504Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:02:34.873Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:02:35.215Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:03:22.286Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:03:22.588Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:15:39.488Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:15:41.873Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:15:55.935Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:15:56.492Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:19:15.580Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:19:16.039Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:19:31.360Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:19:31.693Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:21:44.849Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:21:45.270Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:22:06.445Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:22:06.788Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:23:21.010Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:23:21.428Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:25:27.539Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:25:27.951Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:26:12.965Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:26:13.536Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:26:19.462Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:26:19.806Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:26:29.055Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:26:29.598Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:27:02.739Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:27:03.033Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:27:18.075Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:27:18.416Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:28:44.305Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:28:44.720Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:30:01.543Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:30:01.976Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:51:45.494Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:51:47.747Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:52:48.822Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:52:50.744Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2025-03-10T09:53:18.633Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:53:19.746Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T09:59:01.450Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:59:01.773Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T09:59:01.958Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T09:59:13.141Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T09:59:13.564Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:59:13.758Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T09:59:57.770Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T09:59:58.205Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T09:59:58.773Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:00:29.985Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:00:30.761Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:00:31.625Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:00:50.355Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:00:50.769Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:00:50.815Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:00:53.365Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:00:53.759Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:00:53.789Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:00:56.624Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:00:57.064Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:00:57.763Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:00:59.709Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:00:59.767Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:01:00.125Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:01.793Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:01:02.209Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:01:02.766Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:05.410Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:01:05.770Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:01:06.188Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:07.930Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:01:08.013Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:01:08.392Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:10.894Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:01:11.353Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:01:11.755Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:13.712Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:01:14.768Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:01:15.157Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:16.255Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:01:16.718Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:01:17.757Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:27.599Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:01:27.770Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:28.774Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:01:29.205Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:01:29.758Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:33.452Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:01:33.757Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:01:33.917Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:35.650Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:01:36.087Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:01:36.763Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:37.773Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:38.997Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:01:39.439Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:01:39.765Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:46.020Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:01:46.462Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:01:46.761Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:48.441Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:01:48.884Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:01:49.760Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:01:57.517Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:01:57.927Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:01:58.757Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:03.530Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:02:03.760Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:03.962Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:06.783Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:07.238Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:08.271Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:02:08.334Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:08.710Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:10.144Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:10.594Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:02:10.754Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:13.672Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:02:13.761Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:14.168Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:18.990Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:19.432Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:02:19.762Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:32.446Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:02:32.767Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:33.133Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:35.532Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:02:35.765Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:35.980Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:38.338Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:02:38.757Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:38.762Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:41.351Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:02:41.764Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:41.886Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:44.394Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:02:44.768Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:44.832Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:47.355Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:47.824Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:02:48.757Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:51.128Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:51.683Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:02:51.761Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:53.536Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:53.971Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:02:54.762Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:02:56.375Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:02:56.769Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:02:56.818Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:03:09.192Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:03:10.604Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:03:10.773Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:03:11.065Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:03:12.821Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:03:13.020Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:03:13.230Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:04:42.918Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:04:43.489Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:04:43.767Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:04:44.980Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:04:45.487Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:04:45.762Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:04:53.745Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:04:54.243Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:04:54.763Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:05:22.763Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:05:23.231Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:05:23.768Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:05:25.967Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:05:26.418Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:05:26.753Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:05:34.394Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:05:34.755Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:05:34.832Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:05:37.360Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:05:37.835Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:05:40.039Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:05:40.093Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:05:40.497Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:05:48.095Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:05:48.648Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:05:48.754Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:06:09.414Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:06:09.762Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:06:09.898Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:06:12.791Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:06:13.290Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:06:13.760Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:08:01.001Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:08:01.057Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:08:01.510Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:08:54.683Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:08:54.761Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:08:55.218Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:08:58.261Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:08:59.379Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:08:59.542Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:08:59.803Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:09:06.164Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:09:06.641Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:09:06.767Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:09:10.402Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:09:10.766Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:09:10.956Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:09:12.711Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:09:14.174Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:09:14.261Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:09:15.431Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:09:15.931Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:09:16.770Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:09:18.538Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:09:18.757Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:09:18.997Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:09:23.955Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:09:24.441Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:09:24.759Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:09:25.788Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:09:26.287Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:09:26.757Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:09:39.245Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:09:39.704Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:09:39.763Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:09:55.213Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:09:55.650Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:09:55.763Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:10:37.897Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:10:38.025Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:10:38.400Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:11:00.473Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:11:00.764Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:11:00.981Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:11:12.629Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:11:13.116Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:11:13.763Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:11:19.015Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:11:19.502Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:11:19.756Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:11:39.241Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:11:39.756Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:11:39.759Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:12:08.936Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:12:09.443Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:12:09.761Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:12:11.204Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:12:11.752Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:12:11.758Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:12:22.470Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:12:23.817Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:12:24.023Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:12:24.234Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:12:27.600Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:12:28.716Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:12:28.775Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:12:29.231Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:12:33.146Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:12:33.596Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:12:33.761Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:12:35.811Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:12:36.302Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:12:36.760Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:12:47.748Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:12:48.258Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:12:48.760Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:13:02.093Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:13:02.275Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:13:02.580Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:13:12.250Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:13:13.542Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:13:13.600Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:13:14.977Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:13:15.949Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:13:16.023Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:13:16.451Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:13:19.292Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:13:19.729Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:13:19.763Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:14:07.722Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:14:07.784Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:14:08.128Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:15:02.466Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:15:03.130Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:15:03.823Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:15:32.650Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:15:32.884Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:15:33.420Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:15:50.624Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:15:50.914Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:15:51.442Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:15:57.483Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:15:58.161Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:16:00.807Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:16:09.326Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:16:09.808Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:16:10.046Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:16:25.247Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:16:25.809Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:16:25.922Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:17:39.147Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:17:39.891Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:17:42.810Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:17:54.059Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:17:54.838Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:17:54.927Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:19:05.202Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:19:28.430Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:19:28.854Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:19:29.341Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:19:44.631Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:19:45.551Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:19:49.809Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:20:20.262Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:20:21.026Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:20:46.935Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:20:47.643Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:20:47.860Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:20:59.828Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:21:00.553Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:21:01.808Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:21:26.584Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:21:27.358Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:21:39.687Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:21:44.829Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:21:45.072Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:21:45.506Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:21:50.868Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:21:51.583Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:21:52.813Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:22:04.036Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:22:04.728Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:22:06.799Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:22:22.012Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:22:22.279Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:22:22.761Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:22:52.682Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:22:53.432Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:22:58.811Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:22:59.566Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:23:26.969Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:23:27.644Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:23:27.801Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:23:34.359Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:23:35.173Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:24:00.390Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:24:01.072Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:24:01.836Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:25:05.521Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:25:06.289Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:25:06.811Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:25:24.728Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:25:25.424Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:25:25.791Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:25:43.822Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:25:44.519Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:25:45.790Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:26:00.709Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:26:01.474Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:26:12.875Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:26:13.629Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:26:14.807Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:26:20.613Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:26:21.330Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:26:21.814Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:26:28.252Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:26:28.896Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:26:29.799Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:29:18.005Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:29:22.742Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:29:23.454Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:29:27.823Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:31:38.296Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:31:38.574Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:31:39.153Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:31:57.866Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:31:58.682Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:32:00.808Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:32:05.606Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:32:06.262Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:32:07.799Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:32:25.099Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:32:25.346Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:32:25.840Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:32:48.224Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:32:48.835Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:32:49.090Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:33:00.279Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:33:00.986Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:33:03.809Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:33:19.729Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:33:19.969Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:33:20.444Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:33:39.892Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:33:40.575Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:33:40.823Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:33:45.852Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:33:46.093Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:33:46.636Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:33:59.891Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:34:00.134Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:34:00.711Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:34:15.651Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:34:16.320Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:34:17.809Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:34:25.783Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:34:26.479Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:34:27.817Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:34:38.449Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:34:39.152Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:34:46.486Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:34:46.756Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:34:47.225Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:34:59.341Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:35:00.033Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:35:02.835Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:36:31.412Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:36:32.185Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:36:33.818Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:36:49.124Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:37:06.522Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:37:07.351Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:37:07.803Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:37:16.325Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:37:16.823Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:37:17.160Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:37:21.556Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:37:22.265Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:37:22.802Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:37:27.417Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:37:28.122Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:37:30.815Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:37:40.928Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:37:41.218Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:37:41.733Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:37:55.296Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:38:06.719Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:38:07.097Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:38:07.609Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:38:17.386Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:38:18.068Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:38:18.798Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:40:34.376Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:40:34.624Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:40:35.157Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:40:53.755Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:41:03.012Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:41:03.670Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:41:04.795Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:41:17.815Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:41:18.069Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:41:18.531Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:41:31.763Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:41:32.469Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:41:32.803Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:41:50.249Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:41:51.090Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:41:54.805Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:42:22.621Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:42:23.379Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:42:47.967Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:42:48.743Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:42:55.050Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:42:55.828Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:42:57.827Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:43:08.459Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:43:08.618Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:43:11.273Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:43:37.928Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:43:38.701Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:43:38.799Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:43:53.009Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:43:53.755Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:43:53.811Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:51:54.910Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:51:55.166Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:51:55.716Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:53:05.619Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:53:06.408Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:53:06.825Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T10:54:56.127Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T10:54:56.927Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T10:54:58.825Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:01:38.447Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:01:39.200Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T11:01:39.805Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:04:45.232Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:04:46.056Z"}
+{"level":"info","message":"New client connected","timestamp":"2025-03-10T11:04:48.806Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:05:37.055Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:05:37.863Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:07:03.236Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:07:04.152Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:07:56.089Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:07:56.967Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:08:30.053Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:08:30.742Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:09:33.707Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:09:34.509Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:12:50.934Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:12:51.740Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:14:52.123Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:14:52.981Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:15:03.873Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:15:04.639Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:16:23.758Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:16:24.506Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:16:37.139Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:16:37.997Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:17:31.617Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:17:36.969Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:17:37.722Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:17:49.073Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:17:49.839Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:18:12.380Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:18:13.118Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:19:07.891Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:19:08.708Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:19:36.627Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:19:59.087Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:19:59.996Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:20:06.259Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:20:21.852Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:20:22.676Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:20:40.628Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:20:41.563Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:21:03.721Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:21:21.061Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:21:21.793Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:21:37.853Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:21:38.688Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:21:55.528Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:21:56.371Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:22:53.469Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:22:54.284Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:26:58.887Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:26:59.739Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:27:42.623Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:27:43.565Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:30:07.517Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:30:08.363Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:30:16.381Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:30:17.167Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:30:44.239Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:30:45.035Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:32:01.022Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:32:01.871Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:32:20.123Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:32:20.942Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:32:50.999Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:32:51.789Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:33:44.741Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:33:45.563Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:34:09.409Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:34:10.213Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:38:22.700Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:38:23.644Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:38:38.015Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:38:38.991Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:38:45.151Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:38:45.949Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:39:26.515Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:39:27.309Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:47:29.075Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:47:29.630Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:47:32.405Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:47:32.825Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:47:44.703Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:47:45.137Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:47:48.288Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:47:48.709Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:48:23.172Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:48:23.622Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:48:33.057Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:48:33.537Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:48:36.712Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:48:37.155Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:49:22.091Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:49:22.591Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:49:25.018Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:49:25.462Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:49:26.870Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:49:27.395Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:49:29.414Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:49:31.454Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:49:32.561Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:49:33.044Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T11:50:38.594Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T11:50:39.164Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:02:23.643Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:02:24.107Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:02:30.496Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:02:30.913Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:03:05.357Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:03:05.789Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:04:34.804Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:04:35.350Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:04:52.275Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:04:52.730Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:05:28.165Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:05:28.608Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:10:58.948Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:10:59.442Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:11:04.183Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:11:04.689Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:33:13.084Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:33:13.670Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:33:20.480Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:33:20.923Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:33:22.263Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:33:22.765Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:33:25.483Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:33:25.947Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:33:28.011Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:33:28.473Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:33:31.761Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:33:46.823Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:33:48.083Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:33:48.512Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:33:55.999Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:33:56.474Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:02.629Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:34:03.097Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:05.339Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:34:05.801Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:07.380Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:34:07.810Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:11.054Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:34:11.510Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:12.744Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:14.089Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:15.259Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:34:15.742Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:20.101Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:34:20.613Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:22.177Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:34:22.665Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:24.270Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:34:24.700Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:28.721Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:29.893Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:34:30.385Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:33.300Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:34:33.774Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:40.941Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:34:43.458Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:44.566Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:34:45.650Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:34:46.129Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:35:04.172Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:35:04.638Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:35:08.680Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:35:09.137Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:35:18.094Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:35:18.623Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:35:22.625Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:35:23.100Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:35:25.596Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:35:26.082Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:35:28.209Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:35:32.362Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:35:32.846Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:35:34.495Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:35:34.939Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:35:41.013Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:35:41.474Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:35:44.411Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:35:44.887Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:35:46.189Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:35:46.608Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:35:48.790Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:35:49.214Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:35:54.841Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:35:55.270Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:36:09.517Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:36:09.958Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:36:14.446Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:36:15.895Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:36:17.480Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:36:17.973Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:36:20.016Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:36:21.392Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:36:21.862Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:36:24.620Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:36:25.093Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:36:30.979Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:36:31.453Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:36:34.341Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:36:34.825Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:36:55.425Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:36:55.892Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:36:57.453Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:36:57.909Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:37:04.731Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:37:05.214Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:37:06.936Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:37:07.414Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:37:15.040Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:37:15.481Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:37:22.551Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:37:23.074Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:37:45.870Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:37:47.108Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:37:53.157Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:37:53.627Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:38:27.759Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:38:28.303Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:39:17.023Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:39:17.493Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:39:24.450Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:39:24.872Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:39:26.705Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:39:27.159Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:39:30.939Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:39:31.463Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:39:50.225Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:39:53.091Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:40:13.796Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:40:28.996Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:40:31.655Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:40:33.299Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:40:34.612Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:41:06.721Z"}
+{"code":"ETIMEOUT","hostname":"_mongodb._tcp.cluster0.lmtpu.mongodb.net","level":"error","message":"Database connection failed querySrv ETIMEOUT _mongodb._tcp.cluster0.lmtpu.mongodb.net","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.lmtpu.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:275:17)","syscall":"querySrv","timestamp":"2025-03-10T12:41:57.229Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:42:17.961Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:42:21.603Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:42:28.876Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:42:32.132Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:42:35.449Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:42:37.947Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:42:42.031Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:42:54.481Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:42:56.779Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:43:00.499Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:43:11.045Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:43:11.526Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:43:13.241Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:43:13.703Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:43:18.078Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:43:18.572Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:50:50.916Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:50:52.317Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:50:52.778Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:51:04.071Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:51:04.504Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:51:09.489Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:51:09.936Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:58:38.058Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:58:38.520Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:58:53.212Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:58:53.637Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:59:00.701Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:59:01.134Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:59:20.848Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:59:21.276Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:59:30.962Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:59:31.394Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:59:32.657Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:59:33.106Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:59:36.219Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:59:36.718Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:59:39.993Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:59:40.477Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:59:42.146Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:59:42.586Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:59:45.130Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:59:46.832Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:59:47.284Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:59:50.847Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T12:59:52.506Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T12:59:52.930Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:00:01.002Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:00:17.183Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:00:17.640Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:14:09.655Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:14:10.139Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:14:27.887Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:14:28.319Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:14:31.349Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:14:31.834Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:14:34.466Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:14:34.932Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:14:44.649Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:14:45.112Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:15:01.559Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:15:02.014Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:15:07.011Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:15:07.492Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:15:13.419Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:15:13.920Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:15:22.973Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:15:23.411Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:15:26.348Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:15:26.767Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:15:40.291Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:15:40.719Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:15:45.441Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:15:45.884Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:15:46.962Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:15:47.401Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:16:07.630Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:16:08.059Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:16:13.402Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:16:13.852Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:16:18.044Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:16:18.531Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:16:26.075Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:16:26.509Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:16:31.230Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:16:31.666Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:16:53.790Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:16:54.244Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:16:56.550Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:16:56.994Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:17:05.982Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:17:06.435Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:17:09.740Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:17:10.188Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:17:17.708Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:17:18.232Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:17:19.375Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:17:19.946Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:17:23.756Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:17:24.212Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:17:29.904Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:17:30.338Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:17:59.986Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:18:00.443Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-10T13:18:21.789Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-10T13:18:22.269Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T03:38:25.792Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T03:38:26.421Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T03:49:54.932Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T03:49:55.734Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T03:53:38.855Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T03:53:39.640Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T03:57:40.780Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T03:57:41.628Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T10:02:47.677Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T10:02:48.492Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T12:18:03.709Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T12:18:04.340Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T12:33:39.729Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T12:33:40.282Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T13:03:07.796Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T13:03:08.319Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T13:03:10.743Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T13:03:11.237Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T13:03:14.533Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T13:03:15.029Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T13:03:20.650Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T13:03:21.201Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T13:03:24.067Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T13:03:24.507Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T13:03:29.832Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T13:03:30.441Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T13:03:38.314Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T13:03:38.931Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T13:04:21.118Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T13:04:22.235Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T13:04:22.718Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T13:04:31.050Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T13:04:31.586Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T13:04:36.824Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T13:04:38.372Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T13:22:32.509Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T13:22:35.022Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T13:22:39.919Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T13:22:40.375Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-13T13:24:28.885Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-13T13:24:29.429Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T04:23:17.299Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T04:23:18.299Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T04:26:12.216Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T04:26:12.819Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T04:26:21.700Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T04:26:22.389Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T04:26:38.280Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T04:26:40.815Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T04:26:41.624Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T04:27:03.940Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T04:27:04.656Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T04:33:19.892Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T04:33:24.518Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T04:33:25.245Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T04:34:51.862Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T04:34:52.664Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T04:35:02.028Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T04:35:02.699Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T04:35:09.585Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T04:35:10.308Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T04:36:39.324Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T04:36:40.141Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T04:36:52.885Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T04:36:53.582Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T06:02:09.418Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T06:02:10.386Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T06:02:19.198Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T06:02:19.898Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T06:30:10.355Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T06:30:10.994Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T06:30:12.256Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T06:30:12.786Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:07:09.512Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:07:10.342Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:07:27.006Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:07:40.130Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:07:40.951Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:08:04.144Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:08:04.930Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:08:27.939Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:08:28.818Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:08:42.284Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:08:43.057Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:08:51.649Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:08:52.454Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:08:58.130Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:08:58.862Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:09:10.900Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:09:15.979Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:09:16.807Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:09:31.314Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:09:41.653Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:09:42.473Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:10:04.068Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:10:14.616Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:10:46.935Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:10:47.756Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:10:54.157Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:10:54.959Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:11:28.326Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:11:29.110Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:11:41.789Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:11:42.590Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:11:57.922Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:11:58.733Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:12:07.307Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:12:13.976Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:12:14.824Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:12:20.011Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:12:20.831Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:12:25.909Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:12:26.693Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:12:48.269Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:12:49.061Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:13:09.884Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:13:10.690Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:13:37.176Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:13:37.974Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:13:53.791Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:13:54.633Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:14:01.717Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:14:02.594Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:14:08.874Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:14:09.644Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:15:06.746Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:15:07.665Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:15:23.983Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:15:24.794Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:15:33.925Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:15:34.747Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:15:39.874Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:15:40.687Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:15:59.598Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:16:00.322Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:16:16.202Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:16:16.957Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:16:50.385Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:16:51.191Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:17:06.276Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:17:07.055Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:17:23.344Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:17:24.120Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:17:48.558Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:17:49.364Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:18:09.586Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:18:11.392Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:18:17.154Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:18:18.087Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:18:31.944Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T10:18:37.481Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T10:18:38.225Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:07:01.426Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:07:02.049Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:07:04.011Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:07:04.496Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:07:09.665Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:07:10.174Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:07:45.067Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:07:45.589Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:09:06.709Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:09:07.294Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:10:05.236Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:10:05.757Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:12:07.257Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:12:07.878Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:12:12.233Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:12:12.722Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:14:26.239Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:14:26.807Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:14:29.062Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:14:29.578Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:20:21.376Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:20:21.946Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:20:58.288Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:20:58.780Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:21:01.003Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:21:01.539Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:21:22.345Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:21:22.901Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:21:42.094Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:21:42.618Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:21:45.035Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:21:45.547Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:21:54.370Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:21:54.880Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:25:05.711Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:25:06.258Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:25:36.545Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:25:37.325Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:25:57.346Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:25:57.834Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:27:59.557Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:28:00.100Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:31:48.975Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:31:49.538Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:31:53.620Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:31:54.041Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:34:33.466Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:34:33.951Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:38:48.680Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:38:49.293Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:38:53.560Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:38:54.054Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:39:30.172Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:39:30.669Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:42:26.517Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:42:27.144Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:42:34.062Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:42:34.527Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:42:37.411Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:42:37.939Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T11:42:57.517Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T11:42:57.991Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:13:37.373Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:13:38.052Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:16:18.578Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:16:19.184Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:17:28.658Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:17:29.265Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:17:43.061Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:17:43.558Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:19:58.254Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:19:58.943Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:22:31.554Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:22:32.146Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:22:38.769Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:22:39.224Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:26:12.974Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:26:13.520Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:28:12.332Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:28:12.894Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:28:16.579Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:28:17.097Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:28:20.806Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:28:21.305Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:28:28.668Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:28:29.185Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:28:37.221Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:28:37.705Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:28:44.855Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:28:45.349Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:29:28.430Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:29:29.095Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:29:37.727Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:29:38.162Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:29:42.301Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:30:04.374Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:30:31.840Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:30:32.434Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:30:52.879Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:30:53.550Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:40:57.850Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:40:58.465Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:41:02.339Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:41:02.820Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:45:44.453Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:45:45.100Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:49:37.589Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:49:38.338Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T12:54:25.406Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T12:54:26.085Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T13:07:28.069Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T13:07:28.780Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T13:07:34.267Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T13:07:34.829Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T13:07:46.035Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T13:07:46.564Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T13:07:51.111Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T13:07:51.643Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T13:07:59.449Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T13:07:59.987Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T13:08:19.674Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T13:08:20.216Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T13:08:28.347Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T13:08:29.027Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T13:08:31.853Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T13:08:32.387Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T13:08:35.931Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T13:08:36.507Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T13:09:00.824Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T13:09:01.388Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T13:09:21.585Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T13:09:43.737Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T13:12:17.992Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T13:12:18.640Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-14T13:17:46.610Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-14T13:17:47.345Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-15T03:59:45.221Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-15T03:59:45.861Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-15T04:11:22.493Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-15T04:11:23.295Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-15T04:11:36.077Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-15T04:11:36.789Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-15T04:11:42.846Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-15T04:11:43.521Z"}
+{"level":"info","message":"🚀 Server running on port 5000","timestamp":"2025-03-15T04:12:11.139Z"}
+{"level":"info","message":"✅ Connected to MongoDB","timestamp":"2025-03-15T04:12:12.107Z"}
+{"level":"info","message":"🚀 Server running on port 5000","timestamp":"2025-03-15T04:12:19.638Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-15T04:12:20.300Z"}
+{"level":"info","message":"🚀 Server running on port 5000","timestamp":"2025-03-15T04:12:30.541Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-15T04:12:31.301Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-15T04:12:44.373Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-15T04:12:45.063Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T04:53:47.032Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T04:53:48.611Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T05:03:04.300Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T05:03:46.363Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T05:04:08.483Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T05:04:09.097Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T05:20:14.060Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T05:20:14.797Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:16:57.806Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:16:58.415Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:22:53.654Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:22:54.242Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:36:57.124Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:36:57.768Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:37:09.349Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:37:09.928Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:38:49.021Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:38:51.164Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:38:51.664Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:39:23.514Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:39:24.302Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:39:27.868Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:39:28.418Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:40:18.190Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:40:18.846Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:40:27.160Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:40:27.719Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:40:48.951Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:40:49.522Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:40:53.954Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:40:54.489Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:40:57.611Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:40:58.200Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:44:16.684Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:44:17.503Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:45:41.186Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:45:41.962Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:46:35.108Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:46:35.805Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:50:40.331Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:50:41.051Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T10:51:42.019Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T10:51:42.844Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T11:17:07.654Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T11:17:08.510Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T11:20:41.043Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T11:20:41.926Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T11:22:03.602Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T11:22:04.461Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T11:22:11.122Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T11:22:11.882Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T11:22:29.508Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T11:22:30.247Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T11:36:45.522Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T11:36:46.380Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T11:36:52.000Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T11:36:52.810Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T11:39:41.780Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T11:39:47.056Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T11:39:56.047Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T11:39:56.871Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T11:40:02.367Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T11:40:03.062Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T11:49:28.641Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T11:49:29.452Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T11:49:53.479Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T11:49:54.346Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-17T11:49:59.604Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-17T11:50:00.356Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T06:12:06.685Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T06:12:07.364Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T06:27:45.237Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T06:27:45.897Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T06:29:02.175Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T06:29:02.774Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T06:37:10.666Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T06:37:11.308Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T06:44:36.761Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T06:44:37.411Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T06:59:02.926Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T06:59:03.503Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T07:16:57.905Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T07:16:58.398Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T07:21:43.774Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T07:21:44.835Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T07:43:55.747Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T07:43:56.553Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T08:07:22.927Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T08:07:23.739Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T08:07:54.046Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T08:07:55.219Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T08:08:12.315Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T08:08:13.087Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T08:08:18.199Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T08:08:18.873Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T10:45:37.680Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T10:45:38.276Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-18T11:31:30.245Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-18T11:31:30.870Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-20T05:26:29.077Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-20T05:26:29.649Z"}
+{"level":"info","message":" Server running on port 5000","timestamp":"2025-03-22T03:32:58.829Z"}
+{"level":"info","message":" Connected to MongoDB","timestamp":"2025-03-22T03:32:59.327Z"}

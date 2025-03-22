@@ -1,0 +1,77 @@
+.ant-input{
+  padding: 11px !important;
+  border-radius: unset !important;
+}
+.ant-select-selector{
+  padding: 23px !important;
+  border-radius: unset !important;
+ 
+}
+
+
+
+:where(.css-dev-only-do-not-override-240cud).ant-form-item .ant-form-item-label >label {
+ 
+    font-size: 20px !important;
+}
+
+:where(.css-dev-only-do-not-override-240cud).ant-input-outlined ,:where(.css-dev-only-do-not-override-240cud).ant-picker-outlined{
+  background: #ffffff !important;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #1110105e !important;
+  color: #111010b6 !important;
+}
+.ant-layout-sider-children{
+  height: 100vh !important;
+}
+
+.ant-menu {
+  margin-top: 50px !important;
+}
+
+.ant-btn{
+  border-radius: unset !important;
+
+}
+@media  only screen and (min-width:600px){
+  .ant-drawer-content-wrapper{
+    width: 500px !important;
+  }
+ 
+}
+
+.ant-drawer-content{
+  height: 100vh !important;
+}
+.ant-card-bar-chart{
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px !important;
+  margin-bottom: 10px !important;
+  margin-right: 5px !important;
+  margin-left: 5px !important;
+  padding: 20px !important;
+}
+
+.ant-card{
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px !important;
+  margin-bottom: 10px !important;
+  margin-right: 5px !important;
+  margin-left: 5px !important;
+}
+.ant-card-body{
+padding-left: 20px !important;
+padding-right: 20px !important;
+}
+
+.input-bottom{
+  margin-bottom: 15px !important;
+}
+
+.ant-list-split{
+  height: 500px !important;
+  overflow-y: auto !important;
+}
+
+Table{
+  /* box-shadow: rgba(0, 0, 0, 0.507) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px !important; */
+}

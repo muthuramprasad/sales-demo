@@ -1,0 +1,48 @@
+{"level":"info","message":"User created: doe@example.com","timestamp":"2025-03-07T05:54:24.003Z"}
+{"level":"info","message":"User created: prasad@example.com","timestamp":"2025-03-07T09:11:43.590Z"}
+{"level":"info","message":"User created: arul@example.com","timestamp":"2025-03-07T09:12:32.153Z"}
+{"level":"info","message":"User created: ariki@example.com","timestamp":"2025-03-07T10:25:01.108Z"}
+{"level":"info","message":"User created: aswin@example.com","timestamp":"2025-03-07T10:38:44.052Z"}
+{"level":"info","message":"User created: aravinth@example.com","timestamp":"2025-03-07T10:45:20.821Z"}
+{"level":"info","message":"User logged in: aravinth@example.com","timestamp":"2025-03-07T10:47:28.526Z"}
+{"level":"info","message":"User created: ashwin@gmail.com","timestamp":"2025-03-08T07:03:18.199Z"}
+{"level":"info","message":"User created: ramesh@gmail.com","timestamp":"2025-03-08T07:13:20.249Z"}
+{"level":"info","message":"User created: ramesh1@gmail.com","timestamp":"2025-03-08T07:16:10.992Z"}
+{"level":"error","message":"Error creating user lowerCaseEmail is not defined","stack":"ReferenceError: lowerCaseEmail is not defined\n    at exports.user (D:\\Sales-software-in-vite\\back\\app\\Controller\\CreateUser.js:63:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-08T07:33:13.185Z"}
+{"level":"info","message":"User created: ramesh@gmail.com","timestamp":"2025-03-08T07:37:43.087Z"}
+{"level":"info","message":"User created: suresh@gmail.com","timestamp":"2025-03-08T07:39:04.085Z"}
+{"level":"info","message":"User created: madthu@gmail.com","timestamp":"2025-03-08T07:52:37.294Z"}
+{"level":"info","message":"User created: muthuramprasad@gmail.com","timestamp":"2025-03-08T08:00:02.640Z"}
+{"level":"info","message":"User created: muthuramprasad@gmail.com","timestamp":"2025-03-08T08:10:17.765Z"}
+{"level":"info","message":"User created: prasad@gmail.com","timestamp":"2025-03-08T08:11:05.519Z"}
+{"level":"info","message":"User created: ariki@gmail.com","timestamp":"2025-03-08T08:17:57.193Z"}
+{"level":"info","message":"User created: kathir@gmail.com","timestamp":"2025-03-08T09:06:25.911Z"}
+{"level":"info","message":"User created: mano@gmail.com","timestamp":"2025-03-08T09:08:02.730Z"}
+{"level":"info","message":"User created: ram@gmail.com","timestamp":"2025-03-08T09:08:41.501Z"}
+{"level":"info","message":"User created: nishanth@gmail.com","timestamp":"2025-03-08T09:10:08.692Z"}
+{"level":"info","message":"User created: dhoni@gmail.com","timestamp":"2025-03-08T09:10:33.887Z"}
+{"level":"info","message":"User created: ramesh@gmail.com","timestamp":"2025-03-08T09:11:34.066Z"}
+{"level":"info","message":"User created: rahul@gmail.com","timestamp":"2025-03-08T09:12:18.790Z"}
+{"level":"info","message":"User created: rahu1l@gmail.com","timestamp":"2025-03-08T09:12:36.936Z"}
+{"level":"info","message":"User created: rest@gmail.com","timestamp":"2025-03-08T09:54:06.252Z"}
+{"level":"error","message":"Error creating user Cannot read properties of undefined (reading 'emit')","stack":"TypeError: Cannot read properties of undefined (reading 'emit')\n    at exports.user (D:\\Sales-software-in-vite\\back\\app\\Controller\\CreateUser.js:76:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-08T09:54:06.255Z"}
+{"level":"info","message":"User created: rest@gmail.com","timestamp":"2025-03-08T09:55:21.364Z"}
+{"level":"error","message":"Error creating user Cannot read properties of undefined (reading 'emit')","stack":"TypeError: Cannot read properties of undefined (reading 'emit')\n    at exports.user (D:\\Sales-software-in-vite\\back\\app\\Controller\\CreateUser.js:76:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-08T09:55:21.366Z"}
+{"level":"info","message":"User created: muthuramprasad@gmail.com","timestamp":"2025-03-08T09:55:54.174Z"}
+{"level":"error","message":"Error creating user Cannot read properties of undefined (reading 'emit')","stack":"TypeError: Cannot read properties of undefined (reading 'emit')\n    at exports.user (D:\\Sales-software-in-vite\\back\\app\\Controller\\CreateUser.js:76:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-08T09:55:54.176Z"}
+{"level":"info","message":"User created: prasad@gmail.com","timestamp":"2025-03-08T09:56:54.154Z"}
+{"level":"error","message":"Error creating user Cannot read properties of undefined (reading 'emit')","stack":"TypeError: Cannot read properties of undefined (reading 'emit')\n    at exports.user (D:\\Sales-software-in-vite\\back\\app\\Controller\\CreateUser.js:76:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-03-08T09:56:54.157Z"}
+{"level":"info","message":"User created: ram@gmail.com","timestamp":"2025-03-08T09:59:45.922Z"}
+{"level":"info","message":"User created: ariki@gmail.com","timestamp":"2025-03-08T10:00:53.102Z"}
+{"level":"info","message":"User created: socket@gmail.com","timestamp":"2025-03-08T10:15:20.200Z"}
+{"level":"info","message":"User created: arul@gmail.com","timestamp":"2025-03-10T04:48:22.969Z"}
+{"level":"info","message":"User created: muthuramprasad@gmail.com","timestamp":"2025-03-10T05:45:44.366Z"}
+{"level":"info","message":"User created: muthuramprasad@gmail.com","timestamp":"2025-03-10T05:51:45.146Z"}
+{"level":"info","message":"User created: muthuramprasad@gmail.com","timestamp":"2025-03-10T05:54:13.082Z"}
+{"level":"info","message":"User created: prasad@gmail.com","timestamp":"2025-03-10T05:55:45.486Z"}
+{"level":"info","message":"User created: muthuramprasad@gmail.com","timestamp":"2025-03-10T06:50:14.079Z"}
+{"level":"info","message":"User created: arul@gmail.com","timestamp":"2025-03-10T06:50:49.559Z"}
+{"level":"info","message":"User created: prasad@gmail.com","timestamp":"2025-03-10T07:03:01.723Z"}
+{"level":"info","message":"User created: ram@gmail.com","timestamp":"2025-03-10T09:36:59.137Z"}
+{"level":"info","message":"User created: aravinth@gmail.com","timestamp":"2025-03-10T11:41:19.898Z"}
+{"level":"info","message":"User created: mano@gmail.com","timestamp":"2025-03-13T11:10:11.433Z"}
